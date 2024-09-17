@@ -30,6 +30,7 @@
           sudo apt-get install python3-flask -y
           sudo apt-get install python3-pymysql -y 
           sudo apt-get install python3-boto3 -y
+	  sudo apt-get install mysql-server -y
      
 -------->For running application
 
